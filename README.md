@@ -1,0 +1,2 @@
+# telecom_churn_prediction_using_ligistic_regression
+ML model
